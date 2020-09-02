@@ -51,3 +51,4 @@ node_modules
 publish/package
 /npm-debug.log
 *.p12
+/.vs
